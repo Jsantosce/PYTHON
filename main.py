@@ -56,6 +56,3 @@ download_button = Button(root, text="Iniciar download: MAX 400 xml", command=dow
 download_button.pack()
 
 root.mainloop()
-
-#salvar arquivo vomo executavel
-#pyinstaller -F -w sabadotestetrim.py
